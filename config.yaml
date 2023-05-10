@@ -1,0 +1,34 @@
+baseurl: https://www.example.com/
+languageCode: en-us
+title: Data Analysis with R
+theme: blackburn
+author: Dr Thiyanga S Talagala
+copyright: '&copy; 2023. All rights reserved-Thiyanga S. Talagala.'
+canonifyurls: yes
+paginate: 10
+indexes:
+  tag: tags
+  topic: topics
+params:
+  brand: 
+  dateFormat: 02 Jan 2006, 15:04
+  disqus: Your Disqus shortname
+  googleAnalytics: Your Google Analytics tracking ID
+  highlightjs: androidstudio
+  subtitle: Prepared by Dr Thiyanga S. Talagala
+menu:
+  main:
+    - identifier: home
+      name: Home
+      pre: <i class='fa fa-home fa-fw'></i>
+      url: /
+      weight: 1
+    - identifier: about
+      name: About
+      pre: <i class='fa fa-user fa-fw'></i>
+      url: /about/
+      weight: 3
+social:
+  github: thiyangt
+  linkedin: 'https://www.linkedin.com/in/thiyanga-talagala-24bb63134/'
+  twitter: '@thiyangt'
