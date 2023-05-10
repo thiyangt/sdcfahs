@@ -5,6 +5,8 @@ sidemenu: "true"
 title: Contact
 ---
 
+email: ttalagala@sjp.ac.lk
+
 <form class="pure-form pure-form-stacked">
   <fieldset>
     <div class="pure-g">
