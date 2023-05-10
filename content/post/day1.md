@@ -31,4 +31,4 @@ By the end of this workshop, you will be able to:
 
 2. [Basics of R programming](/slides/5Basics_of_Rprogramming/2_basics.html)
 
-3. [Introduction to RMarkdown](/slides/rmarkdown/rmarkdown_tst.html)
+3. [Introduction to RMarkdown](/slides/rmarkdown/rmarkdownRladies_tst.html)
